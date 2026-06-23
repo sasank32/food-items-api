@@ -1,0 +1,1147 @@
+[
+  {
+    "id": "FOOD-0001",
+    "name": "Paneer Butter Masala",
+    "productCode": "FD-0001",
+    "category": "Dessert",
+    "cuisine": "Continental",
+    "vegType": "Vegan",
+    "calories": 494,
+    "proteinG": 33.6,
+    "carbsG": 40.6,
+    "fatG": 17.8,
+    "priceINR": 99,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-1.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0002",
+    "name": "Veg Biryani",
+    "productCode": "FD-0002",
+    "category": "Dessert",
+    "cuisine": "Indian",
+    "vegType": "Veg",
+    "calories": 373,
+    "proteinG": 15.1,
+    "carbsG": 44.9,
+    "fatG": 30.7,
+    "priceINR": 129,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-2.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0003",
+    "name": "Chicken Biryani",
+    "productCode": "FD-0003",
+    "category": "Beverage",
+    "cuisine": "Mexican",
+    "vegType": "Non-Veg",
+    "calories": 477,
+    "proteinG": 6.7,
+    "carbsG": 55.7,
+    "fatG": 27.4,
+    "priceINR": 149,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-3.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0004",
+    "name": "Masala Dosa",
+    "productCode": "FD-0004",
+    "category": "Dessert",
+    "cuisine": "Mexican",
+    "vegType": "Veg",
+    "calories": 229,
+    "proteinG": 31.5,
+    "carbsG": 59.7,
+    "fatG": 32.3,
+    "priceINR": 129,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-4.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0005",
+    "name": "Idli Sambar",
+    "productCode": "FD-0005",
+    "category": "Snack",
+    "cuisine": "Mexican",
+    "vegType": "Vegan",
+    "calories": 701,
+    "proteinG": 16.9,
+    "carbsG": 18.2,
+    "fatG": 2.0,
+    "priceINR": 249,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-5.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0006",
+    "name": "Poori Curry",
+    "productCode": "FD-0006",
+    "category": "Snack",
+    "cuisine": "Continental",
+    "vegType": "Vegan",
+    "calories": 817,
+    "proteinG": 35.0,
+    "carbsG": 23.0,
+    "fatG": 13.0,
+    "priceINR": 299,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-6.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0007",
+    "name": "Aloo Paratha",
+    "productCode": "FD-0007",
+    "category": "Breakfast",
+    "cuisine": "Continental",
+    "vegType": "Veg",
+    "calories": 398,
+    "proteinG": 17.6,
+    "carbsG": 52.8,
+    "fatG": 31.1,
+    "priceINR": 249,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-7.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0008",
+    "name": "Chole Bhature",
+    "productCode": "FD-0008",
+    "category": "Dinner",
+    "cuisine": "North Indian",
+    "vegType": "Vegan",
+    "calories": 624,
+    "proteinG": 27.8,
+    "carbsG": 65.9,
+    "fatG": 33.6,
+    "priceINR": 129,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-8.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0009",
+    "name": "Veg Fried Rice",
+    "productCode": "FD-0009",
+    "category": "Breakfast",
+    "cuisine": "Chinese",
+    "vegType": "Vegan",
+    "calories": 797,
+    "proteinG": 13.2,
+    "carbsG": 37.6,
+    "fatG": 28.1,
+    "priceINR": 179,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-9.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0010",
+    "name": "Egg Fried Rice",
+    "productCode": "FD-0010",
+    "category": "Dessert",
+    "cuisine": "Mexican",
+    "vegType": "Non-Veg",
+    "calories": 688,
+    "proteinG": 18.0,
+    "carbsG": 25.3,
+    "fatG": 21.2,
+    "priceINR": 99,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-10.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0011",
+    "name": "Gobi Manchurian",
+    "productCode": "FD-0011",
+    "category": "Snack",
+    "cuisine": "Indian",
+    "vegType": "Veg",
+    "calories": 190,
+    "proteinG": 24.7,
+    "carbsG": 48.0,
+    "fatG": 24.2,
+    "priceINR": 99,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-11.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0012",
+    "name": "Paneer Tikka",
+    "productCode": "FD-0012",
+    "category": "Dinner",
+    "cuisine": "North Indian",
+    "vegType": "Veg",
+    "calories": 122,
+    "proteinG": 27.9,
+    "carbsG": 70.7,
+    "fatG": 39.7,
+    "priceINR": 149,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-12.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0013",
+    "name": "Chicken Tikka",
+    "productCode": "FD-0013",
+    "category": "Breakfast",
+    "cuisine": "Continental",
+    "vegType": "Non-Veg",
+    "calories": 818,
+    "proteinG": 21.7,
+    "carbsG": 89.6,
+    "fatG": 28.6,
+    "priceINR": 299,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-13.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0014",
+    "name": "Veg Burger",
+    "productCode": "FD-0014",
+    "category": "Snack",
+    "cuisine": "Chinese",
+    "vegType": "Vegan",
+    "calories": 722,
+    "proteinG": 35.0,
+    "carbsG": 84.7,
+    "fatG": 9.8,
+    "priceINR": 149,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-14.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0015",
+    "name": "Chicken Burger",
+    "productCode": "FD-0015",
+    "category": "Snack",
+    "cuisine": "Mexican",
+    "vegType": "Non-Veg",
+    "calories": 165,
+    "proteinG": 34.7,
+    "carbsG": 23.6,
+    "fatG": 23.2,
+    "priceINR": 79,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-15.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0016",
+    "name": "Margherita Pizza",
+    "productCode": "FD-0016",
+    "category": "Snack",
+    "cuisine": "North Indian",
+    "vegType": "Vegan",
+    "calories": 274,
+    "proteinG": 5.5,
+    "carbsG": 21.7,
+    "fatG": 30.1,
+    "priceINR": 129,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-16.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0017",
+    "name": "Farmhouse Pizza",
+    "productCode": "FD-0017",
+    "category": "Breakfast",
+    "cuisine": "South Indian",
+    "vegType": "Veg",
+    "calories": 731,
+    "proteinG": 7.4,
+    "carbsG": 50.8,
+    "fatG": 23.3,
+    "priceINR": 149,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-17.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0018",
+    "name": "Pasta Alfredo",
+    "productCode": "FD-0018",
+    "category": "Dessert",
+    "cuisine": "Mexican",
+    "vegType": "Veg",
+    "calories": 713,
+    "proteinG": 3.1,
+    "carbsG": 19.3,
+    "fatG": 30.4,
+    "priceINR": 299,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-18.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0019",
+    "name": "Pasta Arrabiata",
+    "productCode": "FD-0019",
+    "category": "Snack",
+    "cuisine": "Italian",
+    "vegType": "Veg",
+    "calories": 760,
+    "proteinG": 25.4,
+    "carbsG": 18.9,
+    "fatG": 5.5,
+    "priceINR": 199,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-19.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0020",
+    "name": "Veg Sandwich",
+    "productCode": "FD-0020",
+    "category": "Lunch",
+    "cuisine": "Mexican",
+    "vegType": "Veg",
+    "calories": 296,
+    "proteinG": 22.1,
+    "carbsG": 42.0,
+    "fatG": 14.6,
+    "priceINR": 99,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-20.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0021",
+    "name": "Grilled Chicken Sandwich",
+    "productCode": "FD-0021",
+    "category": "Beverage",
+    "cuisine": "North Indian",
+    "vegType": "Non-Veg",
+    "calories": 278,
+    "proteinG": 34.8,
+    "carbsG": 92.4,
+    "fatG": 31.2,
+    "priceINR": 149,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-21.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0022",
+    "name": "Tomato Soup",
+    "productCode": "FD-0022",
+    "category": "Dinner",
+    "cuisine": "South Indian",
+    "vegType": "Vegan",
+    "calories": 567,
+    "proteinG": 11.5,
+    "carbsG": 20.2,
+    "fatG": 14.7,
+    "priceINR": 129,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-22.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0023",
+    "name": "Sweet Corn Soup",
+    "productCode": "FD-0023",
+    "category": "Breakfast",
+    "cuisine": "South Indian",
+    "vegType": "Veg",
+    "calories": 332,
+    "proteinG": 17.0,
+    "carbsG": 31.0,
+    "fatG": 33.0,
+    "priceINR": 129,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-23.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0024",
+    "name": "Fruit Salad",
+    "productCode": "FD-0024",
+    "category": "Dessert",
+    "cuisine": "Italian",
+    "vegType": "Vegan",
+    "calories": 384,
+    "proteinG": 7.0,
+    "carbsG": 67.4,
+    "fatG": 24.8,
+    "priceINR": 49,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-24.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0025",
+    "name": "Sprouts Salad",
+    "productCode": "FD-0025",
+    "category": "Dessert",
+    "cuisine": "Italian",
+    "vegType": "Veg",
+    "calories": 845,
+    "proteinG": 12.9,
+    "carbsG": 46.4,
+    "fatG": 23.8,
+    "priceINR": 149,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-25.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "FOOD-0026",
+    "name": "Protein Salad",
+    "productCode": "FD-0026",
+    "category": "Lunch",
+    "cuisine": "South Indian",
+    "vegType": "Veg",
+    "calories": 786,
+    "proteinG": 14.9,
+    "carbsG": 82.5,
+    "fatG": 30.2,
+    "priceINR": 79,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-26.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "FOOD-0027",
+    "name": "Paneer Wrap",
+    "productCode": "FD-0027",
+    "category": "Lunch",
+    "cuisine": "Continental",
+    "vegType": "Veg",
+    "calories": 554,
+    "proteinG": 9.3,
+    "carbsG": 77.9,
+    "fatG": 12.1,
+    "priceINR": 49,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-27.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "FOOD-0028",
+    "name": "Chicken Wrap",
+    "productCode": "FD-0028",
+    "category": "Dinner",
+    "cuisine": "North Indian",
+    "vegType": "Non-Veg",
+    "calories": 344,
+    "proteinG": 11.1,
+    "carbsG": 47.0,
+    "fatG": 31.8,
+    "priceINR": 179,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-28.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0029",
+    "name": "Lemon Rice",
+    "productCode": "FD-0029",
+    "category": "Dinner",
+    "cuisine": "North Indian",
+    "vegType": "Vegan",
+    "calories": 540,
+    "proteinG": 18.1,
+    "carbsG": 60.9,
+    "fatG": 3.6,
+    "priceINR": 179,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-29.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0030",
+    "name": "Curd Rice",
+    "productCode": "FD-0030",
+    "category": "Beverage",
+    "cuisine": "North Indian",
+    "vegType": "Veg",
+    "calories": 568,
+    "proteinG": 27.6,
+    "carbsG": 35.6,
+    "fatG": 27.2,
+    "priceINR": 79,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-30.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0031",
+    "name": "Sambar Rice",
+    "productCode": "FD-0031",
+    "category": "Lunch",
+    "cuisine": "Chinese",
+    "vegType": "Vegan",
+    "calories": 354,
+    "proteinG": 11.4,
+    "carbsG": 76.5,
+    "fatG": 27.5,
+    "priceINR": 299,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-31.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0032",
+    "name": "Rajma Rice",
+    "productCode": "FD-0032",
+    "category": "Dessert",
+    "cuisine": "South Indian",
+    "vegType": "Veg",
+    "calories": 231,
+    "proteinG": 6.4,
+    "carbsG": 19.7,
+    "fatG": 12.8,
+    "priceINR": 99,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-32.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0033",
+    "name": "Dal Khichdi",
+    "productCode": "FD-0033",
+    "category": "Lunch",
+    "cuisine": "Italian",
+    "vegType": "Veg",
+    "calories": 158,
+    "proteinG": 34.5,
+    "carbsG": 33.5,
+    "fatG": 32.0,
+    "priceINR": 49,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-33.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0034",
+    "name": "Veg Pulao",
+    "productCode": "FD-0034",
+    "category": "Breakfast",
+    "cuisine": "Mexican",
+    "vegType": "Veg",
+    "calories": 816,
+    "proteinG": 10.0,
+    "carbsG": 42.4,
+    "fatG": 13.6,
+    "priceINR": 129,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-34.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0035",
+    "name": "Mushroom Curry",
+    "productCode": "FD-0035",
+    "category": "Dessert",
+    "cuisine": "Continental",
+    "vegType": "Vegan",
+    "calories": 386,
+    "proteinG": 22.1,
+    "carbsG": 41.3,
+    "fatG": 24.7,
+    "priceINR": 49,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-35.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0036",
+    "name": "Palak Paneer",
+    "productCode": "FD-0036",
+    "category": "Lunch",
+    "cuisine": "Italian",
+    "vegType": "Veg",
+    "calories": 426,
+    "proteinG": 27.3,
+    "carbsG": 60.2,
+    "fatG": 38.1,
+    "priceINR": 299,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-36.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0037",
+    "name": "Kadai Paneer",
+    "productCode": "FD-0037",
+    "category": "Dinner",
+    "cuisine": "South Indian",
+    "vegType": "Vegan",
+    "calories": 162,
+    "proteinG": 8.5,
+    "carbsG": 33.6,
+    "fatG": 26.1,
+    "priceINR": 249,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-37.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "FOOD-0038",
+    "name": "Butter Naan",
+    "productCode": "FD-0038",
+    "category": "Breakfast",
+    "cuisine": "South Indian",
+    "vegType": "Veg",
+    "calories": 758,
+    "proteinG": 29.0,
+    "carbsG": 73.7,
+    "fatG": 2.3,
+    "priceINR": 179,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-38.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0039",
+    "name": "Tandoori Roti",
+    "productCode": "FD-0039",
+    "category": "Dessert",
+    "cuisine": "South Indian",
+    "vegType": "Vegan",
+    "calories": 485,
+    "proteinG": 17.1,
+    "carbsG": 74.0,
+    "fatG": 27.7,
+    "priceINR": 149,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-39.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0040",
+    "name": "Gulab Jamun",
+    "productCode": "FD-0040",
+    "category": "Snack",
+    "cuisine": "North Indian",
+    "vegType": "Veg",
+    "calories": 367,
+    "proteinG": 20.8,
+    "carbsG": 74.2,
+    "fatG": 14.2,
+    "priceINR": 249,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-40.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0041",
+    "name": "Rasmalai",
+    "productCode": "FD-0041",
+    "category": "Snack",
+    "cuisine": "Italian",
+    "vegType": "Vegan",
+    "calories": 819,
+    "proteinG": 9.6,
+    "carbsG": 25.6,
+    "fatG": 20.4,
+    "priceINR": 179,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-41.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0042",
+    "name": "Brownie",
+    "productCode": "FD-0042",
+    "category": "Beverage",
+    "cuisine": "North Indian",
+    "vegType": "Vegan",
+    "calories": 315,
+    "proteinG": 10.0,
+    "carbsG": 15.2,
+    "fatG": 7.7,
+    "priceINR": 299,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-42.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "FOOD-0043",
+    "name": "Cold Coffee",
+    "productCode": "FD-0043",
+    "category": "Lunch",
+    "cuisine": "Italian",
+    "vegType": "Vegan",
+    "calories": 507,
+    "proteinG": 34.0,
+    "carbsG": 25.4,
+    "fatG": 15.8,
+    "priceINR": 129,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-43.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0044",
+    "name": "Masala Tea",
+    "productCode": "FD-0044",
+    "category": "Snack",
+    "cuisine": "Indian",
+    "vegType": "Vegan",
+    "calories": 701,
+    "proteinG": 13.5,
+    "carbsG": 52.4,
+    "fatG": 3.8,
+    "priceINR": 49,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-44.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": []
+  },
+  {
+    "id": "FOOD-0045",
+    "name": "Fresh Lime Soda",
+    "productCode": "FD-0045",
+    "category": "Breakfast",
+    "cuisine": "Chinese",
+    "vegType": "Vegan",
+    "calories": 800,
+    "proteinG": 23.3,
+    "carbsG": 35.8,
+    "fatG": 37.9,
+    "priceINR": 129,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-45.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0046",
+    "name": "Mango Juice",
+    "productCode": "FD-0046",
+    "category": "Dessert",
+    "cuisine": "Italian",
+    "vegType": "Vegan",
+    "calories": 550,
+    "proteinG": 14.7,
+    "carbsG": 67.1,
+    "fatG": 18.4,
+    "priceINR": 199,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-46.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "FOOD-0047",
+    "name": "Banana Shake",
+    "productCode": "FD-0047",
+    "category": "Dessert",
+    "cuisine": "North Indian",
+    "vegType": "Vegan",
+    "calories": 755,
+    "proteinG": 15.6,
+    "carbsG": 57.1,
+    "fatG": 15.3,
+    "priceINR": 149,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-47.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ]
+  },
+  {
+    "id": "FOOD-0048",
+    "name": "Chocolate Shake",
+    "productCode": "FD-0048",
+    "category": "Dinner",
+    "cuisine": "North Indian",
+    "vegType": "Vegan",
+    "calories": 226,
+    "proteinG": 6.6,
+    "carbsG": 77.5,
+    "fatG": 33.2,
+    "priceINR": 99,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-48.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0049",
+    "name": "Veg Thali",
+    "productCode": "FD-0049",
+    "category": "Snack",
+    "cuisine": "North Indian",
+    "vegType": "Vegan",
+    "calories": 413,
+    "proteinG": 19.8,
+    "carbsG": 71.0,
+    "fatG": 30.4,
+    "priceINR": 299,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-49.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Nuts"
+    ]
+  },
+  {
+    "id": "FOOD-0050",
+    "name": "Mini Meals",
+    "productCode": "FD-0050",
+    "category": "Breakfast",
+    "cuisine": "South Indian",
+    "vegType": "Vegan",
+    "calories": 649,
+    "proteinG": 23.7,
+    "carbsG": 67.0,
+    "fatG": 5.4,
+    "priceINR": 179,
+    "isActive": true,
+    "imageUrl": "https://example.com/images/food-50.jpg",
+    "ingredients": [
+      "salt",
+      "spices",
+      "oil"
+    ],
+    "allergens": [
+      "Dairy"
+    ]
+  }
+]
