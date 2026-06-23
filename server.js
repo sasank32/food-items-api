@@ -66,6 +66,49 @@ app.post("/api/foods", (req, res) => {
   });
 });
 
+app.get("/api/foods", (req, res) => {
+  let results = [...foodItems];
+
+  const { category, cuisine, vegType, minPrice, maxPrice, search } = req.query;
+
+  if (category) {
+    results = results.filter(
+      (item) => item.category?.toLowerCase() === category.toLowerCase(),
+    );
+  }
+
+  if (cuisine) {
+    results = results.filter(
+      (item) => item.cuisine?.toLowerCase() === cuisine.toLowerCase(),
+    );
+  }
+
+  if (vegType) {
+    results = results.filter(
+      (item) => item.vegType?.toLowerCase() === vegType.toLowerCase(),
+    );
+  }
+
+  if (minPrice) {
+    results = results.filter((item) => item.priceINR >= Number(minPrice));
+  }
+
+  if (maxPrice) {
+    results = results.filter((item) => item.priceINR <= Number(maxPrice));
+  }
+
+  if (search) {
+    results = results.filter((item) =>
+      item.name?.toLowerCase().includes(search.toLowerCase()),
+    );
+  }
+
+  res.json({
+    total: results.length,
+    data: results,
+  });
+});
+
 app.get("/api/foods/:id", (req, res) => {
   const item = foodItems.find((food) => food.id === req.params.id);
 
