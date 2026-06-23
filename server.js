@@ -69,37 +69,33 @@ app.post("/api/foods", (req, res) => {
 app.get("/api/foods", (req, res) => {
   let results = [...foodItems];
 
-  const { category, cuisine, vegType, minPrice, maxPrice, search } = req.query;
+  const { search, category, cuisine, vegType } = req.query;
+
+  if (search) {
+    results = results.filter(
+      (item) =>
+        item.name && item.name.toLowerCase().includes(search.toLowerCase()),
+    );
+  }
 
   if (category) {
     results = results.filter(
-      (item) => item.category?.toLowerCase() === category.toLowerCase(),
+      (item) =>
+        item.category && item.category.toLowerCase() === category.toLowerCase(),
     );
   }
 
   if (cuisine) {
     results = results.filter(
-      (item) => item.cuisine?.toLowerCase() === cuisine.toLowerCase(),
+      (item) =>
+        item.cuisine && item.cuisine.toLowerCase() === cuisine.toLowerCase(),
     );
   }
 
   if (vegType) {
     results = results.filter(
-      (item) => item.vegType?.toLowerCase() === vegType.toLowerCase(),
-    );
-  }
-
-  if (minPrice) {
-    results = results.filter((item) => item.priceINR >= Number(minPrice));
-  }
-
-  if (maxPrice) {
-    results = results.filter((item) => item.priceINR <= Number(maxPrice));
-  }
-
-  if (search) {
-    results = results.filter((item) =>
-      item.name?.toLowerCase().includes(search.toLowerCase()),
+      (item) =>
+        item.vegType && item.vegType.toLowerCase() === vegType.toLowerCase(),
     );
   }
 
